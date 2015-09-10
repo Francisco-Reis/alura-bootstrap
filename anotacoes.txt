@@ -5,10 +5,26 @@ Boa pratica: Agrupar figuras e descrições da figura em uma tag 'figure'.
 
 Emular Smartphone:
 O Console do navegador possui uma opção de emulação de smartphone (icone)
-Preprara um site pra dispositivos móveis:
-<meta name="viewport" content="width=divece-width" />
+
+IMPORTANTE: Preprara um site pra dispositivos móveis:
+<meta name="viewport" content="width=device-width" />
 
 Classe de botoes: class="btn btn-default" (mais botoes disponiveis na documentação)
 Classe thumbnail: cria uma "caixinha" contendo as informações, com borda, util em divs
 Class Text-center centraliza tudo, usar sempre pra centralizar:
 ><h3 class="text-center">Novidades</h3>
+
+Add icone carrinho de compras:
+<span class="glyphicon glyphicon-shopping-cart"></span>
+
+COLUNAS BOOTSTRAP:
+O bootstrap funciona como se a pagina tivesse colunas, dependendo do tamanho da tela.
+O maximo são 12 colunas. Sendo assim, é possivel dizer quantas colunas cada elemento vai
+preencher, pra melhor se adaptar a diferentes tamanhos de tela.
+Ex:
+class="col-md-4": ocupa 4 colunas, 1/3 da tela, ou seja, para uma tela com 12 colunas teremos
+3 elementos.
+Regra: (ver regra real na documentação do bootstrap: Grids)
+col-xs-?: para smartphones
+col-sm-?: para tablets
+col-md-?: para desktops
