@@ -1,0 +1,14 @@
+BOOTSTRAP:
+Conjunto de CSSs, fontes e scripts JS para facilitar design responsivo feito pelo Twitter.
+Download e documentação: getbootstrap.com
+Boa pratica: Agrupar figuras e descrições da figura em uma tag 'figure'.
+
+Emular Smartphone:
+O Console do navegador possui uma opção de emulação de smartphone (icone)
+Preprara um site pra dispositivos móveis:
+<meta name="viewport" content="width=divece-width" />
+
+Classe de botoes: class="btn btn-default" (mais botoes disponiveis na documentação)
+Classe thumbnail: cria uma "caixinha" contendo as informações, com borda, util em divs
+Class Text-center centraliza tudo, usar sempre pra centralizar:
+><h3 class="text-center">Novidades</h3>
