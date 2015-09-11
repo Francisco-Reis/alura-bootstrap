@@ -28,3 +28,9 @@ Regra: (ver regra real na documentação do bootstrap: Grids)
 col-xs-?: para smartphones
 col-sm-?: para tablets
 col-md-?: para desktops
+
+navbar-brand: MArca da empresa na barra de navegação
+collapse navbar-collapse: Esconde menu de navegação
+
+Botão pra exibir menu escondido:
+<button type="button" data-target=".navbar-collapse" data-toggle="collapse" class="navbar-collapse">Menu</button>
