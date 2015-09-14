@@ -55,3 +55,13 @@ O js precisa ser iniciado depois:
     });
 </script>
 data-wow-delay: atributo para atrasar animaçoes.
+
+Imagem ajustada e com borda:
+img class="img-responsive img-thumbnail"
+
+Abas internas:
+ul class="nav nav-tabs"
+    li class="nav"  -> a href="#nome-da-aba" data-toggle="tab"
+    ... (cada li é uma aba)
+div class="tab-content"
+    div class="tab-pane fade" id="nome-da-aba"
