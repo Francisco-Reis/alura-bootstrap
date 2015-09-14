@@ -34,3 +34,6 @@ collapse navbar-collapse: Esconde menu de navegação
 
 Botão pra exibir menu escondido:
 <button type="button" data-target=".navbar-collapse" data-toggle="collapse" class="navbar-collapse">Menu</button>
+
+Bootstrap carousel:
+http://getbootstrap.com/javascript/#carousel
