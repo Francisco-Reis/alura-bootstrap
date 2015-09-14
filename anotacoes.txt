@@ -43,3 +43,15 @@ A div com classe row deve sempre ficar dentor de uma div classe container.
 
 Listas do Bootstrap:
  http://getbootstrap.com/components/#list-group
+
+WOW.js: contem varias animações prontas para o uso.
+Animaçoes WOW disponiveis:
+http://daneden.github.io/animate.css/
+Para fazer a animaçao adicionar as classes "wow nome-da-animacao"
+O js precisa ser iniciado depois:
+<script>
+    $(function () {
+        new WOW().init();
+    });
+</script>
+data-wow-delay: atributo para atrasar animaçoes.
