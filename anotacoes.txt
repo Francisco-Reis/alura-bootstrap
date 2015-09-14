@@ -37,3 +37,9 @@ Botão pra exibir menu escondido:
 
 Bootstrap carousel:
 http://getbootstrap.com/javascript/#carousel
+
+Regra de Divs do bootstrap:
+A div com classe row deve sempre ficar dentor de uma div classe container.
+
+Listas do Bootstrap:
+ http://getbootstrap.com/components/#list-group
