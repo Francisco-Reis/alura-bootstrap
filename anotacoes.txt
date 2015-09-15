@@ -65,3 +65,8 @@ ul class="nav nav-tabs"
     ... (cada li é uma aba)
 div class="tab-content"
     div class="tab-pane fade" id="nome-da-aba"
+
+Classes Panel:
+colocam informações em um painel estilizado, com panel-head, panel-body, etc.
+
+Classe form-control: Deixa qualquer input no estilo Bootstrap
